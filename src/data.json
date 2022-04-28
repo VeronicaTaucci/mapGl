@@ -1,0 +1,121 @@
+{
+    "parks": [
+        {
+            "park_id": 6398796,
+            "park_name": "Brays Bayou Greenway Trail",
+            "image": "https://cloudfront.traillink.com/photos/brays-bayou-greenway-trail_138267_sc.jpg",
+            "trail_length": 33.8,
+            "description": "The Brays Bayou Greenway Trail winds along the bayou in southwestern Houston, connecting neighborhoods, universities, recreational facilities, and cultural attractions. Roughly mid-trail, Hermann Park offers trail-goers access to the Houston Zoo, beautiful gardens, and the city's museum district. Farther east is MacGregor Park, a popular neighborhood spot with its community center, playground, and pool. The trail is part of a regional effort called Bayou Greenways 2020, spearheaded by the Houston Parks Board, which aims to have 150 miles of greenway trails running throughout Houston by the year 2020.",
+            "longitude": -95.3879466,
+            "latitude": 29.7084257
+        },
+        {
+            "park_id": 7509469,
+            "park_name": "Buffalo Bayou Trail",
+            "image": "https://cloudfront.traillink.com/photos/buffalo-bayou-trail_155266_sc.jpg",
+            "trail_length": 15,
+            "description": "The Buffalo Bayou Trail, also referred to as the Sandy Reed Memorial Trail, cuts across Houston and meanders through the many parks that line the waterway, as well as the historical Glenwood Cemetery. It stretches 15 miles and is fully paved, offering a pleasant outdoor escape in an urban setting.Sandwiched between Memorial Drive on its north side and Allen Parkway to the south, the west end of the trail is particularly popular and easy to access. Much of this section is shaded and you’ll even find a thriving bat colony under the Waugh Drive Bridge. And, if you want to see the views from the water, canoe and kayak launches are available near the Sabine Street Bridge and City Lot H.",
+            "longitude": -95.6230424,
+            "latitude": 29.7721667
+        },
+        {
+            "park_id": 6017434,
+            "park_name": "Columbia Tap Rail-Trail",
+            "image": "https://cloudfront.traillink.com/photos/columbia-tap-rail-trail_30584_sc.jpg",
+            "trail_length": 4,
+            "description": " View Trail Map Cutting a swath through Houston's Third Ward, the Columbia Tap Trail is a 4-mile rail-trail connecting parts of southeastern Houston with offices, a convention center and a ballpark near downtown. Completed in 2009, the trail follows the old Columbia Tap railroad route from Dixie Street in the south, passes through the campus of Texas Southern University, runs by churches and schools in the Third Ward and ends in a warehouse district on St. Charles Street, just blocks from Minute Maid Park, where the Houston Astros play. The 10-foot-wide, paved trail is lined with native trees, is lighted for nighttime use and has many benches along its route, creating an inviting greenway through the neighborhood. At the southern end, the Columbia Tap Rail-Trail connects with the Brays Bayou Hike and Bike Trail, a 16.4-mile trail providing access to Hermann Park, the Houston Zoo and the museum district.",
+            "longitude": -95.3625473,
+            "latitude": 29.7275984
+        },
+        {
+            "park_id": 7892240,
+            "park_name": "George Bush Park Hike and Bike Trail",
+            "image": "https://cloudfront.traillink.com/photos/george-bush-park-hike-and-bike-trail_168195_sc.jpg",
+            "trail_length": 11.4,
+            "description": "The George Bush Park Hike and Bike Trail, in western Houston, starts at the west end of the Terry Hershey Park Hike and Bike Trail and, together, they offer a continuous 22-mile ride. The park itself sprawls 7,800 acres and has a number of recreational amenities, including ballfields, picnic areas, a shooting range, and wildlife habitat. Note that the park's paved trail is largely unshaded.",
+            "longitude": -95.68392,
+            "latitude": 29.74198
+        },
+        {
+            "park_id": 10464501,
+            "park_name": "Greens Bayou Greenway",
+            "image": "https://network.thehighline.org/content/uploads/sites/3/2017/03/Brays-Greenway-web-featured-2.jpg",
+            "trail_length": 7.3,
+            "description": "The Greens Bayou Greenway threads a green corridor, tracing both banks of its namesake bayou in northern Houston. The paved pathway is bordered by residential neighborhoods and connects Tom Wussow Park—which offers playgrounds, covered picnic tables, and a YMCA—and City View Park. The trail is part of a regional effort called Bayou Greenways 2020, spearheaded by the Houston Parks Board, which aims to have 150 miles of greenway trails running throughout Houston by the year 2020.",
+            "longitude": -95.2116615,
+            "latitude": 29.791502
+        },
+        {
+            "park_id": 6512844,
+            "park_name": "Halls Bayou Greenway Trail",
+            "image": "https://cloudfront.traillink.com/photos/halls-bayou-greenway-trail_169322_sc.jpg",
+            "trail_length": 6.8,
+            "description": "The Halls Bayou Trail runs for 3 miles between Hirsch Road and Bretshire Drive near Woodwick Street. The trail links neighborhoods with Tidwell Park and Forest Brook High School, passing through wooded stretches among green, open space. A second segment stretches from Jensen Drive and winds north through Mary Withers Park and on the grassy banks of the bayou and then finally into the woods of Keith-Wiess Park.",
+            "longitude": -95.2116615,
+            "latitude": 29.7915029
+        },
+        {
+            "park_id": 6017405,
+            "park_name": "Harrisburg and Sunset Rail Trails",
+            "image": "https://cloudfront.traillink.com/photos/harrisburg-and-sunset-rail-trails_30585_sc.jpg",
+            "trail_length": 2,
+            "description": "The Harrisburg-Sunset Trail is a rails-to-trails project offering bicyclists and pedestrians over 5 miles of trail and on-street bikeways just east of downtown Houston. The 10-foot asphalt trail is lighted and runs from Drennan to Marsden and from Avenue H to Hidalgo Park. The on-street portion of the trail includes segments from Commerce and McKee, to Commerce and Drennan, and from Garrow and Marsden to Avenue H and West Hendrick.",
+            "longitude": -95.2116615,
+            "latitude": 29.7915029
+        },
+        {
+            "park_id": 8680373,
+            "park_name": "Library Loop Trail",
+            "image": "https://cloudfront.traillink.com/photos/library-loop-trail_162698_sc.jpg",
+            "trail_length": 1.4,
+            "description": "Westchase District’s Library Loop Trail is the perfect combination of fitness and fun. A decade in the making and with the assistance of Several groups within the community coming together to fund the Library Loop Trail and make it a reality. A near by fitness center offers the opportunity to warm up before the real work out on the trail begins. Wether your in the mood for a bike ride or a walk, the Liberty Loop trail is sure to offer a great workout for any trail lover.",
+            "longitude": -95.5654343,
+            "latitude": 29.728694
+        },
+        {
+            "park_id": 6512837,
+            "park_name": "Little White Oak Bayou Trail",
+            "image": "https://cloudfront.traillink.com/photos/little-white-oak-bayou-trail_135870_sc.jpg",
+            "trail_length": 0.3,
+            "description": "The Little White Oak Bayou trail is a short trail located in North Houston. This short trail is just one small part of the emerging Houston trails system.",
+            "longitude": -95.5654343,
+            "latitude": 29.7286947
+        },
+        {
+            "park_id": 6017538,
+            "park_name": "MKT/SP Rails to Trails (Heights Trail)",
+            "image": "https://www.traillink.com/images/tl/placeholders/No_Photo_Image_Thumbnail-trimmed.jpg",
+            "trail_length": 4.6,
+            "description": "The MKT/SP Rails to Trails forms a dogleg through urban Houston, with one leg running north–south between W 26th Street and W 7th Street and the east–west leg running between Shepherd Drive and Hogan Street (just east of I-45). From the I-45 end, the trail continues along the Heritage Corridor Bayou Trail, which carries on toward downtown, the University of Houston and other bikeways",
+            "longitude": -95.3932931,
+            "latitude": 29.7803907
+        },
+        {
+            "park_id": 9937819,
+            "park_name": "Sims Bayou Greenway",
+            "image": "https://cloudfront.traillink.com/photos/sims-bayou-greenway_161154_sc.jpg",
+            "trail_length": 6.9,
+            "description": "The Sims Bayou Greenway, sometimes referred to as the Sims Bayou Hike and Bike Trail, is a developing trail through the neighborhoods of southern Houston, connecting residents with parks and recreational amenities, as well as opportunities to enjoy nature. Currently, 7 miles of the trail are open in a few disconnected segments, but plans are in the works to connect and expand those sections. The project is part of Bayou Greenways 2020, an initiative spearheaded by the Houston Parks Board, which aims to have 150 miles of greenway trails in Houston by the year 2020.",
+            "longitude": -95.366079,
+            "latitude": 29.6455326
+        },
+        {
+            "park_id": 7230748,
+            "park_name": "Terry Hershey Park Hike & Bike Trail",
+            "image": "https://cloudfront.traillink.com/photos/terry-hershey-park-hike--bike-trail_155925_sc.jpg",
+            "trail_length": 10.7,
+            "description": "The Terry Hershey Park Hike & Bike Trail is an east-west route along the banks of the Buffalo Bayou in western Houston. It provides more than 10 miles of trail from Barker Dam (near State Highway 6) to Texas Beltway 8 and the Sam Houston Tollway. The park also offers restrooms, exercise stations, a playground, and places to picnic.On its west end, the trail connects to the George Bush Park Hike and Bike Trail, so trail-goers could seamlessly extend their trip by another 11 miles.",
+            "longitude": -95.368273,
+            "latitude": 29.6455326
+        },
+        {
+            "park_id": 6032419,
+            "park_name": "West White Oak Bayou Trail",
+            "image": "https://cloudfront.traillink.com/photos/west-white-oak-bayou-trail_166713_sc.jpg",
+            "trail_length": 17,
+            "description": "The West White Oak Bayou Trail extends between north of Antoine Drive and the Buffalo Bayou Greenway Trail, running parallel with the bayou and T. C. Jester Boulevard. From the trail you can connect to the Central Business District (CBD) Access On-street Bikeway at 11th Street and at Ella Boulevard on the south and to the West Houston On-street Bikeway at 34th Street, Dubarry (to Wakefield), 43rd Street, Carleen (to Bethlehem), and Pinemont on the north.",
+            "longitude": -95.451727,
+            "latitude": 29.7634738
+        }
+    ]
+}
